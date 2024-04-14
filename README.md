@@ -13,5 +13,5 @@ $ npm install
 
 # Run the app
 $ npm start
- Demo
+ Demo https://ucfx.github.io/TIC-TAC-TOE-GAME
 Click Here to see and play by yourself a demo of the game.
